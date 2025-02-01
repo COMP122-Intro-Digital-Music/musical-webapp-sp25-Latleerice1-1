@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "Untitled",
+    "file": "samples/audiomass-output.wav",
+    "bpm": 120,
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  },
+  {
+    "name": "Untitled",
+    "file": "samples/Sound-3.wav",
+    "bpm": "150",
+    "loop": "1m",
+    "grain": "0.091",
+    "overlap": 0.01
+  },
+  {
+    "name": "Untitled",
+    "file": "samples/Failedus.wav",
+    "bpm": 120,
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  }
+]
