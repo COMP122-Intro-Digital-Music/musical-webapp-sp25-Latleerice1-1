@@ -1,1 +1,71 @@
-[]
+[
+  {
+    "name": "Default Graph 1",
+    "pitchSet": {
+      "state": "C4",
+      "matrix": {
+        "C4": [
+          "C4"
+        ]
+      }
+    },
+    "rhythmSet": {
+      "state": "4n",
+      "matrix": {
+        "4n": [
+          "4n"
+        ]
+      }
+    }
+  },
+  {
+    "name": "Default Graph 2",
+    "pitchSet": {
+      "state": "Eb4",
+      "matrix": {
+        "C4": [
+          "C4"
+        ],
+        "C#4": [
+          "C#4"
+        ],
+        "Cb4": [
+          "Cb4"
+        ],
+        "Eb4": [
+          "Eb4"
+        ]
+      }
+    },
+    "rhythmSet": {
+      "state": "4n",
+      "matrix": {
+        "4n": [
+          "4n"
+        ]
+      }
+    }
+  },
+  {
+    "name": "Default Graph",
+    "pitchSet": {
+      "state": "F4",
+      "matrix": {
+        "C4": [
+          "C4"
+        ],
+        "F4": [
+          "F4"
+        ]
+      }
+    },
+    "rhythmSet": {
+      "state": "4n",
+      "matrix": {
+        "4n": [
+          "4n"
+        ]
+      }
+    }
+  }
+]
